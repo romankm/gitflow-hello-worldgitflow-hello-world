@@ -1,2 +1,5 @@
 git branch develop
 git push -u origin develop
+
+git pull --rebase
+git pull --rebase pulls commits, appies em and merges with your changes;
